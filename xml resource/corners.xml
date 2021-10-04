@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zero_corner_radius">0dp</dimen>
+    <dimen name="corner_size_3xs">2dp</dimen>
+    <dimen name="corner_size_2xs">4dp</dimen>
+    <dimen name="corner_size_xs">6dp</dimen>
+    <dimen name="corner_size_s">8dp</dimen>
+    <dimen name="corner_size_m">10dp</dimen>
+</resources>
